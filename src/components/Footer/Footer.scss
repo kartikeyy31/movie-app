@@ -8,4 +8,7 @@
     align-items: center;
     color: $font-primary;
     flex-direction: column;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
